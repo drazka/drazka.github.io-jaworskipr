@@ -1,5 +1,7 @@
 package jaworskipr.jaworski.config;
 
+import org.springframework.boot.web.server.WebServerFactoryCustomizer;
+import org.springframework.boot.web.servlet.server.ConfigurableServletWebServerFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -20,6 +22,12 @@ public class AppConfig {
 //        localeResolver.setDefaultLocale(new Locale("pl", "PL"));
 //        return localeResolver;
 //    }
+
+    @Bean
+    public WebServerFactoryCustomizer<ConfigurableServletWebServerFactory>
+    webServerFactoryCustomizer() {
+        return factory -> factory.setContextPath("/jaworskipr.com");
+    }
 
     @Bean
     public Validator validator() {
