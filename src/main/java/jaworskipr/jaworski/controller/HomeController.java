@@ -16,9 +16,9 @@ public class HomeController {
     public String aboutpageShow() {
         return "about"; }
 
-    @GetMapping(path = "/blog")
-    public String blogpageShow() {
-        return "blog"; }
+    @GetMapping(path = "/influencers")
+    public String influencersPageShow() {
+        return "influencers"; }
 
     @GetMapping(path = "/services")
     public String servicesPageShow() {
@@ -26,9 +26,13 @@ public class HomeController {
 
     @GetMapping(path = "/contact")
     public String contactPageShow() {
-        return "conatact"; }
+        return "contact"; }
 
-    @GetMapping(path = "/blog-details")
-    public String blogDPageShow() {
-        return "blog-details"; }
+    @GetMapping(path = "/forclients")
+    public String clientPageShow() {
+        return "forclients"; }
+
+    @GetMapping(path = "/career")
+    public String careerPageShow() {
+        return "career"; }
 }

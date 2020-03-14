@@ -10,14 +10,14 @@
     <div class="container">
         <div class="d-sm-flex justify-content-between">
             <ul class="header-top__info mb-2 mb-sm-0">
-                <li><a href="tel:+01432152323"><span class="align-middle"><i class="ti-mobile"></i></span>+014 321 523 23</a></li>
-                <li><a href="mailto:info@example.com"><span class="align-middle"><i class="ti-email"></i></span>Info@example.com</a></li>
+                <li><a href="tel:+48 693613500"><span class="align-middle"><i class="ti-mobile"></i></span>+48 693 613 500</a></li>
+                <li><a href="mailto:radek@jaworskipr.com"><span class="align-middle"><i class="ti-email"></i></span>radek@jaworskipr.com</a></li>
             </ul>
             <ul class="header-top__social">
-                <li><a href="#"><i class="ti-facebook"></i></a></li>
-                <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                <li><a href="#"><i class="ti-instagram"></i></a></li>
-                <li><a href="#"><i class="ti-skype"></i></a></li>
+                <li><a href="/facebook.com"><i class="ti-facebook"></i></a></li>
+                <li><a href="/twitter.com"><i class="ti-twitter-alt"></i></a></li>
+                <li><a href="/instagram.com"><i class="ti-instagram"></i></a></li>
+                <li><a href="/skype.com"><i class="ti-skype"></i></a></li>
             </ul>
         </div>
     </div>
@@ -39,8 +39,13 @@
                 <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                     <ul class="nav navbar-nav menu_nav justify-content-end">
                         <li class="nav-item active"><a class="nav-link" href="/jaworskipr.com/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/about">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/about">About Us</a></li>
                         <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/services">Services</a>
+                        <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/forclients">For Clients</a>
+                        <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/influencers">Influencers</a>
+                        <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/career">Career</a>
+
+                            <!-- ROZWIJANE MENU ------
                         <li class="nav-item submenu dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
                                aria-expanded="false">Pages</a>
@@ -49,6 +54,8 @@
                                 <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/blog-details">Blog Details</a></li>
                             </ul>
                         </li>
+                        -->
+
                         <li class="nav-item"><a class="nav-link" href="/jaworskipr.com/contact">Contact</a></li>
                     </ul>
                 </div>
