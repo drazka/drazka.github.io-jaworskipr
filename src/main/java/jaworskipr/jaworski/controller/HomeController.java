@@ -35,4 +35,9 @@ public class HomeController {
     @GetMapping(path = "/career")
     public String careerPageShow() {
         return "career"; }
+
+        //TODO usun na koncu
+    @GetMapping(path = "/example")
+    public String examplePageShow() {
+        return "examples"; }
 }
