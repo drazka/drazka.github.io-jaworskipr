@@ -19,7 +19,7 @@
 <section class="hero-banner">
     <div class="hero-banner__content text-center">
         <h1>The quality of your business depends on the quality of your thoughts</h1>
-        <a class="button" href="/jaworskipr.com/checkourthoughts">More</a>
+        <a class="button" href="/jaworskipr.com/about">Learn More</a>
     </div>
 </section>
 <!--================ Hero Banner end =================-->
