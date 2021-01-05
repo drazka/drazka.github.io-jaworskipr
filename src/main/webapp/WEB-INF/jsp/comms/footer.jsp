@@ -14,7 +14,9 @@
                 <div class="single-footer-widget">
                     <h6>About Agency</h6>
                     <p>
-                        The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point
+                        We are a strategic communications agency.
+                        We serve our clients by offering tailored strategies and executions that
+                        create added value to their businesses.
                     </p>
                 </div>
             </div>
@@ -25,16 +27,14 @@
                         <div class="col">
                             <ul>
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">Feature</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Portfolio</a></li>
+                                <li><a href="#">About us</a></li>
+                                <li><a href="#">For Clients</a></li>
+                                <li><a href="#">For Influencers</a></li>
                             </ul>
                         </div>
                         <div class="col">
                             <ul>
-                                <li><a href="#">Team</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Career</a></li>
                                 <li><a href="#">Contact</a></li>
                             </ul>
                         </div>
@@ -45,7 +45,7 @@
                 <div class="single-footer-widget">
                     <h6>Newsletter</h6>
                     <p>
-                        For business professionals caught between high OEM price and mediocre print and graphic output.
+
                     </p>
                     <div id="mc_embed_signup">
                         <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscription relative">

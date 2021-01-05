@@ -66,7 +66,11 @@
     <div class="container">
         <div class="section-intro text-center pb-65px">
             <h2 class="section-intro__title">Competences</h2>
-            <p>tu tekst powienien wymyslic Radzio wiec Radziu wymysl cos naprawde fajnego</p>
+            <p>We are a strategic communications agency headuquartered in
+                Warsaw, Poland, focusing on following industries: high-tech,
+                sports and tourism. We serve our clients by offering
+                tailored strategies and executions that create added value
+                to their businesses.</p>
         </div>
         <div class="row">
             <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
@@ -79,7 +83,10 @@
                     </div>
                     <div class="card-subject__body">
                         <h3><a href="#">Communication Strategy</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <p>We build effective strategies using our unique
+                            rigourous & structured approach. Thanks to vast
+                            experience across multiple industries we can deliver
+                            out-of-the box thinking</p>
                     </div>
                 </div>
             </div>
@@ -94,7 +101,10 @@
                     </div>
                     <div class="card-subject__body">
                         <h3><a href="#">Media Relations</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <p>We have developed a battle tested toolbox
+                            of media relations tactics that will help
+                            execute objectives set in aligned communications
+                            strategy</p>
                     </div>
                 </div>
             </div>
@@ -108,8 +118,11 @@
                         </div>
                     </div>
                     <div class="card-subject__body">
-                        <h3><a href="#">Content Marketing</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <h3><a href="#">Media Consulting</a></h3>
+                        <p>Non-standard solutions development and
+                            execution is our specialty. We help clients to build
+                            additional synergies benefit from the quality of their
+                            assets</p>
                     </div>
                 </div>
             </div>
@@ -124,7 +137,10 @@
                     </div>
                     <div class="card-subject__body">
                         <h3><a href="#">Brand Partership</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <p>We can create added value for your marketing
+                            campaign by building supereffective partnerships
+                            with most attractive tourism regions in Europe
+                            at no incremental cost </p>
                     </div>
                 </div>
             </div>
@@ -137,8 +153,11 @@
                         </div>
                     </div>
                     <div class="card-subject__body">
-                        <h3><a href="#">Digital</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <h3><a href="#">SEO & Outreach PR</a></h3>
+                        <p>We effectively support digital strategies with
+                            PR toolbox. Smart public relations activations
+                            may leverage your digital presence and empower
+                            your position in search engines results</p>
                     </div>
                 </div>
             </div>
@@ -152,7 +171,8 @@
                     </div>
                     <div class="card-subject__body">
                         <h3><a href="#">Sport Sponsporship</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <p>We can help you identify top sport events and athletes that
+                            will suit your marketing strategy</p>
                     </div>
                 </div>
             </div>
@@ -166,7 +186,8 @@
                     </div>
                     <div class="card-subject__body">
                         <h3><a href="#">Sport's rights</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <p>Sport rights evaluation, support in sales or acquisition process,
+                            consulting regarding rights optimisation.</p>
                     </div>
                 </div>
             </div>
@@ -179,8 +200,10 @@
                         </div>
                     </div>
                     <div class="card-subject__body">
-                        <h3><a href="#">Media Consulting</a></h3>
-                        <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>
+                        <h3><a href="#">Bloggers & Influencers Management</a></h3>
+                        <p>Our extended relationships with bloggers and
+                            influencers community and ability to build value
+                            may help you realize your business objectives</p>
                     </div>
                 </div>
             </div>
@@ -194,9 +217,9 @@
 <section class="section-padding--smaller cta-wrapper">
     <div class="container">
         <div class="cta__content text-center">
-            <h2>Free Case Evaluation</h2>
-            <p>Female divided bearing rule one called said Beginning set you living above saw seasons void created fruitful third years god.</p>
-            <button class="button button-cta">Contact us Now</button>
+<%--            <h2>Free Case Evaluation</h2>--%>
+<%--            <p>Female divided bearing rule one called said Beginning set you living above saw seasons void created fruitful third years god.</p>--%>
+    <button> <a href="/contact" class="button button-cta">Contact us Now</a></button>
         </div>
     </div>
 </section>
