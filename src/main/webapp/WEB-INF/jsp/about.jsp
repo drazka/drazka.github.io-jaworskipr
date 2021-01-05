@@ -23,7 +23,7 @@
 
 
 <!--================ About section start =================-->
-<section class="d-lg-flex align-items-center section-margin--large">
+<%--<section class="d-lg-flex align-items-center section-margin--large">--%>
 <%--    <div class="about__videoWrapper">--%>
 <%--        <div class="about__video">--%>
 <%--            <div class="about__video-image">--%>
@@ -37,20 +37,31 @@
 <%--            </div>--%>
 <%--        </div>--%>
 <%--    </div>--%>
-    <div class="container">
-        <div class="about__content">
-            <h3>We Properly Understand Your Purpose</h3>
-            <p>We are a strategic communications agency headuquartered in Warsaw,
-                Poland, focusing on following industries: high-tech, sports and tourism.
-                We serve our clients by offering tailored strategies and executions that
-                create added value to their businesses.</p>
+<%--    <div class="container">--%>
+<%--        <div class="about__content">--%>
+<%--            <h3>We Properly Understand Your Purpose</h3>--%>
+<%--            <p>We are a strategic communications agency headuquartered in Warsaw,--%>
+<%--                Poland, focusing on following industries: high-tech, sports and tourism.--%>
+<%--                We serve our clients by offering tailored strategies and executions that--%>
+<%--                create added value to their businesses.</p>--%>
 
 <%--            <a class="button mt-xl-3" href="#">Learn More</a>--%>
+<%--        </div>--%>
+<%--    </div>--%>
+<%--</section>--%>
+<!--================ About section end =================-->
+<section class="section-margin">
+    <div class="container">
+        <div class="section-intro text-center pb-65px">
+            <h2 class="section-intro__title">About us</h2>
+            <p>We are a strategic communications agency headuquartered in
+                Warsaw, Poland, focusing on following industries: high-tech,
+                sports and tourism. We serve our clients by offering
+                tailored strategies and executions that create added value
+                to their businesses.</p>
         </div>
     </div>
 </section>
-<!--================ About section end =================-->
-
 <!--================ Testimonial section start =================-->
 <%--<section class="bg-albaster section-padding--small">--%>
 <%--    <div class="container">--%>

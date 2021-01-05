@@ -78,7 +78,7 @@
                     <div class="card-subject__img">
                         <img class="card-img rounded-0" src="resources/img/home/subject-1.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -96,7 +96,7 @@
                     <div class="card-subject__img">
                         <img class="card-img rounded-0" src="resources/img/home/subject-2.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -114,7 +114,7 @@
                     <div class="card-subject__img">
                         <img class="card-img rounded-0" src="resources/img/home/subject-3.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -132,7 +132,7 @@
                     <div class="card-subject__img">
                         <img class="card-img rounded-0" src="resources/img/home/subject-4.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -147,9 +147,9 @@
             <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
                 <div class="card card-subject">
                     <div class="card-subject__img">
-                        <img class="card-img rounded-0" src="resources/img/home/subject-1.png" alt="">
+                        <img class="card-img rounded-0" src="resources/img/home/team1.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -164,9 +164,9 @@
             <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
                 <div class="card card-subject">
                     <div class="card-subject__img">
-                        <img class="card-img rounded-0" src="resources/img/home/subject-1.png" alt="">
+                        <img class="card-img rounded-0" src="resources/img/home/team2.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -179,9 +179,9 @@
             <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
                 <div class="card card-subject">
                     <div class="card-subject__img">
-                        <img class="card-img rounded-0" src="resources/img/home/subject-1.png" alt="">
+                        <img class="card-img rounded-0" src="resources/img/home/team3.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">
@@ -194,9 +194,9 @@
             <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
                 <div class="card card-subject">
                     <div class="card-subject__img">
-                        <img class="card-img rounded-0" src="resources/img/home/subject-1.png" alt="">
+                        <img class="card-img rounded-0" src="resources/img/home/team4.png" alt="">
                         <div class="card-subject__imgOverlay">
-                            <img src="resources/img/home/hover-icon.png" alt="">
+                            <img src="resources/img/home/pr_icon.png" alt="">
                         </div>
                     </div>
                     <div class="card-subject__body">

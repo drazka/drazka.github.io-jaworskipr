@@ -31,7 +31,7 @@
                 Do not hestitate to share Your story with us and apply! Please
                 to bear in mind that due to high volume of applicatoins we'll be
                 contacting only selected candidates.  </h4>
-            <h5> please send CV to: career@jaworskipr.com</h5>
+            <h5> please send CV to: cv@jaworskipr.com</h5>
         </div>
     </div>
 </section>
